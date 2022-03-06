@@ -35,7 +35,7 @@ function Header() {
     <AppBar color='transparent' position='static'>
       <Container>
         <Toolbar >
-          <Typography onClick={()=>navigate('/')} className={classes.title} variant={'h6'}>Trinance</Typography>
+          <Typography onClick={()=>navigate('/')} className={classes.title} variant={'h6'}>TryNance</Typography>
           <Select variant='outlined' 
           style={{
             width:100,
