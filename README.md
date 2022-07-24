@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>Project includes blockchain platform as a marketplace for NFTs</h3>
 
 ## Available Scripts
 
